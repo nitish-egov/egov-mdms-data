@@ -6,6 +6,10 @@
       "format": "TEST_seq/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON_TEST_AUTOCRE]",
       "idname": "seq.autocreate.test"
     },
+      {
+        "format": "PB-DTR-[cy:yyyy-MM-dd]-[SEQ_EG_DTR_ID]",
+        "idname": "dtr.registrationId"
+    },
     {
       "format": "BILL-[SEQ_EGOV_COMMON_TEST_AUTOCRE]",
       "idname": "billnumberid"
